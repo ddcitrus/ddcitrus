@@ -1,10 +1,9 @@
-![Moe-Counter](https://count.getloli.com/get/@:name?theme=moebooru)
+
 
 ## About me
 
 - 你好陌生人，我是 Ddcitrus
 
-- 本人： 生于 21 世纪初的 ~~_Walmart购物袋_~~
 
 - 爱好： Acgn， 发呆， 计算机， 睡觉， 樱小路露娜，~~_女装_~~
 
